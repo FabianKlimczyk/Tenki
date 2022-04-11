@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Tenki</string>
+    <string name="please_wait">Bitte warten</string>
+
+    <string name="image_contentDescription" translatable="false">image</string>
+    <string name="miles_per_hour" translatable="false">km/h</string>
+
+    <string name="action_refresh">Aktualisieren</string>\
+    
+    <string name="disabled_location_service">Deine Ortungsdienste sind deaktiviert. Bitte einschalten.</string>
+    <string name="denied_location_service">Die Berechtigungen der Standortdiesnte wurden abgelehnt.</string>
+    <string name="permission_denied_limited_usability">Du hast die Berechtigungen abgelehnt. Die Applikation ist ohne diese Rechte nur eingeschränkt nutzbar!</string>
+    <string name="go_to_settings">Zu den Einstellungen...</string>
+    <string name="action_cancel">Abbrechen</string>
+    <string name="failed_connection">Verbindung fehlgeschlagen</string>
+</resources>

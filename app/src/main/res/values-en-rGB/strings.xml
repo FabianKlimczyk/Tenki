@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_wait">Please wait</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="disabled_location_service">Your location services are disabled. Please turn on</string>
+    <string name="denied_location_service">The permissions of the site location services have been denied.</string>
+    <string name="permission_denied_limited_usability">You have denied the permissions. The application is only limited usable without these permissions!</string>
+    <string name="go_to_settings">Zu den Einstellungen</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="failed_connection">Verbindung fehlgeschlagen</string>
+</resources>
